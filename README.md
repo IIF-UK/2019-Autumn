@@ -1,5 +1,5 @@
 # Quarterly Forecasting Forum, Autumn, 2019
-This time the forum was held in University College London (UCL), London. There were four presentations and a discussion of the future of QFF.
+This time the forum was held in University College London (UCL), London on 4th of October, 2019. There were four presentations and a discussion of the future of QFF.
 
 1. Fergus Bolger presented on the forecasting competitions and proposed a new potential design for a competition.
 2. Nikos Kourentzes discussed hierarchical forecasting methods and suggested a new reconciliation technique, involving the transformations of the original space in a simple way, involving only a handful of parameters to estimate.
